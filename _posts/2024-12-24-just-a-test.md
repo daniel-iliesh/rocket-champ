@@ -1,4 +1,7 @@
 ---
+layout: post
+date: 2023-12-24
+categories: jekyll update
 title: Just testing jekyll things
 description: Describing something here
 ---
