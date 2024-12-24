@@ -3,6 +3,11 @@ description: "Showcasing my projects and experiences"
 baseurl: "/rocket-champ" 
 url: "https://daniel-iliesh.github.io"
 author: "Daniel Iliesh"
+include:
+ - _pages
+ - projects
+ - .htaccess
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
+
