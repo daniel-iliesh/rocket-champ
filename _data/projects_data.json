@@ -1,0 +1,176 @@
+{
+    "21-game": {
+        "title": "21 Game",
+        "description": "Built a card game using vanilla JavaScript to understand DOM manipulation and HTML/CSS basics.",
+        "technologies": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "date": "2019",
+        "details": "During my internship, I developed a card game using vanilla JavaScript. This project laid the foundation for understanding frameworks like React.",
+        "links": {
+            "demo": "https://your-site.com/demo/21-game",
+            "repo": "https://github.com/daniel-iliesh/21-game"
+        }
+    },
+    "wp-responsive": {
+        "title": "WordPress Responsive Design",
+        "description": "Optimized WordPress sites for mobile responsiveness, focusing on layout and user experience.",
+        "technologies": [
+            "WordPress",
+            "CSS"
+        ],
+        "date": "2019",
+        "details": "Improved layouts and removed unnecessary elements to ensure seamless user experiences on mobile devices.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "defender-bot": {
+        "title": "Defender Bot",
+        "description": "Created a LEGO Robot using Python to play a turn-based game, showcasing Python OOP and robotics integration.",
+        "technologies": [
+            "Python",
+            "LEGO Mindstorms"
+        ],
+        "date": "2020",
+        "details": "Built a LEGO Robot that used sensors and Python programming to play a turn-based game.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "it-hub": {
+        "title": "IT Hub",
+        "description": "A MERN stack social media application developed for my graduation project.",
+        "technologies": [
+            "MongoDB",
+            "Express.js",
+            "React",
+            "Node.js"
+        ],
+        "date": "2021",
+        "details": "Explored full-stack development by building a feature-rich social media application.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "otis": {
+        "title": "OTIS",
+        "description": "Developed a tool to automate template filling for call center processes, increasing efficiency.",
+        "technologies": [
+            "jQuery",
+            "Bootstrap",
+            "Regex"
+        ],
+        "date": "2021",
+        "details": "Won first place in an innovation competition for creating a tool that simplified repetitive tasks.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "umf-exams": {
+        "title": "UMF Exams",
+        "description": "Refactored a Vue.js university exams platform using Vuetify for consistency and scalability.",
+        "technologies": [
+            "Vue.js",
+            "Vuetify"
+        ],
+        "date": "2022",
+        "details": "Optimized and standardized the frontend of a university exams platform.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "eventer": {
+        "title": "Eventer",
+        "description": "An events registration site using Vue 2 for managing attendee registrations.",
+        "technologies": [
+            "Vue.js",
+            "CSS"
+        ],
+        "date": "2022",
+        "details": "Developed an interactive site for event registration and attendee management.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "ml-adcognition": {
+        "title": "ML AdCognition",
+        "description": "Trained and developed tools for AI ad recognition using TensorFlow and Python.",
+        "technologies": [
+            "TensorFlow",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "date": "2023",
+        "details": "Built and trained machine learning models to recognize advertisements from images.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "ad-cognition": {
+        "title": "AdCognition",
+        "description": "Modified AdGuard to support AI-based ad recognition with TensorFlow.js.",
+        "technologies": [
+            "TensorFlow.js",
+            "JavaScript"
+        ],
+        "date": "2023",
+        "details": "Integrated AI models into AdGuard to detect ads dynamically in browsers.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "prestashop-automation": {
+        "title": "Prestashop Automation",
+        "description": "Automated inventory management using the Prestashop API.",
+        "technologies": [
+            "Python",
+            "Prestashop API"
+        ],
+        "date": "2023",
+        "details": "Streamlined inventory uploads and updates using API integrations.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "artcore-autoblog": {
+        "title": "ArtCore Autoblog",
+        "description": "Automated blog posting system using WordPress REST API.",
+        "technologies": [
+            "Python",
+            "WordPress REST API"
+        ],
+        "date": "2023",
+        "details": "Created a tool to mirror articles across WordPress blogs automatically.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    },
+    "robogpt": {
+        "title": "RoboGPT",
+        "description": "Developed an Isaac Sim extension for forklift control using natural language commands.",
+        "technologies": [
+            "Python",
+            "Isaac Sim",
+            "LLM APIs"
+        ],
+        "date": "2024",
+        "details": "Integrated LLM APIs to control forklifts in warehouse simulations using natural language.",
+        "links": {
+            "demo": "",
+            "repo": ""
+        }
+    }
+}
