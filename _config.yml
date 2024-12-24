@@ -1,14 +1,15 @@
 title: "Daniel Iliesh Portfolio"
 description: "Showcasing my projects and experiences"
-baseurl: "/rocket-champ" 
+baseurl: "/rocket-champ"
 url: "https://daniel-iliesh.github.io"
 author: "Daniel Iliesh"
 
 email: iliesh.daniel@gmail.com
 twitter_username: danieliliesh
-github_username:  daniel-iliesh
+github_username: daniel-iliesh
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-    - jekyll-remote-theme 
+    - jekyll-remote-theme
 
+google_analytics: G-W1GYW7S8EV
