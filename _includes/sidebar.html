@@ -1,0 +1,17 @@
+---
+---
+<aside class="sidebar">
+    <header>
+        <h2>Categories</h2>
+    </header>
+    <nav class="sidebar-nav"></nav>
+        {% assign categories_list = site.categories %}
+        {% for category in categories_list %}
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <a class="sidebar-nav-item{% if page.category == category_name %} active{% endif %}" href="/category/{{ category_name | slugify }}"></a>
+                {{ category_name }}
+                <span class="badge">({{ site.categories[category_name].size }})</span>
+            </a>
+        {% endfor %}
+    </nav>
+</aside>

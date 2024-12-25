@@ -1,3 +1,6 @@
-### Hello World
+---
+layout: default
+title: Home
+---
 
-#### Its me Daniel Ilies
+### Welcome to index page
